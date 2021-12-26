@@ -1,6 +1,6 @@
 # Titanic-Challenge-Solution
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shinichi-oto/1565-S-E-qwsa/HEAD?labpath=Titanic_Solution.ipynb)
 ---------------------
 - Kaggle向けに作成。
 - Titanic_Challengeの上位1%のスコアを出すSolution
